@@ -1,4 +1,10 @@
-🌥️ Cloud Engineer Extraordinaire ☁️ | Architecting Scalable Solutions 🏗️ | Automating the Cloud 🤖 | DevOps Enthusiast 🚀 | Code Composer by Day 🖥️ | Cloud Whisperer by Night 🌌 |  #CloudMagic 🪄
+🌥️ Cloud Engineer Extraordinaire 
+☁️ | Architecting Scalable Solutions 
+🏗️ | Automating the Cloud 
+🤖 | DevOps Enthusiast 
+🚀 | Code Composer by Day 
+🖥️ | Cloud Whisperer by Night 
+🌌 |  #CloudMagic 🪄
 ...
 
 <!---
